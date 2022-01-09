@@ -3,15 +3,15 @@
   "username": "guisteink",
   "name": "Guilherme Stein Kuhn",
   "userimg": "https://avatars.githubusercontent.com/u/39563063?v=4",
-  "sort": "updated",
+  "sort": "star",
   "order": "asc",
-  "includeFork": true,
-  "theme": "dark.css",
+  "includeFork": false,
+  "theme": "light.css",
   "types": [
    "owner"
   ],
-  "twitter": "skgui2",
-  "linkedin": "guilherme.stein",
+  "twitter": "@skgui2",
+  "linkedin": "https://www.linkedin.com/in/guilherme-stein/",
   "medium": null,
   "dribbble": null
  }
